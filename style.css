@@ -1,0 +1,19 @@
+.carousel-caption.d-none.d-md-block {
+    position: absolute;
+    left: -25%;
+    bottom: 40%;
+}
+
+.logo-wa {
+    position: absolute;
+    left: 95%;
+    top: 120%;
+    color: green;
+}
+
+.magnifier {
+    position: absolute;
+    color: #ffffff;
+    left: 69%;
+    top: 24%;
+}
